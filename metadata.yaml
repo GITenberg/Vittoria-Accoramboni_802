@@ -1,0 +1,29 @@
+_repo: Vittoria-Accoramboni_802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Beyle, Marie Henri
+    - Marie-Henri Beyle
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '802'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italy -- Fiction'
+- GITenberg
+title: Vittoria Accoramboni
+url: http://www.gutenberg.org/ebooks/802
